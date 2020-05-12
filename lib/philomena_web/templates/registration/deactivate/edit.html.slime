@@ -2,7 +2,7 @@ h1 Deactivate Your Account
 .dnp-warning
   h4 WARNING - This is permanent
   p
-    ' Deactivating an account is a non-reversable action. Once your account is deactivated, you will be able to recover
+    ' Deactivating an account is a non-reversable action. Once your account is deactivated, you will be unable to recover
     ' your account or any private information associated with it, such as private messages. Our staff will be unable
     ' to verify your former ownership of the account, and thus unable to help you regain access to it or perform any
     ' actions to/against your account at your request.
