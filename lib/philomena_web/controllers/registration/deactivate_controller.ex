@@ -10,4 +10,10 @@ defmodule PhilomenaWeb.Registration.DeactivateController do
     render(conn, "edit.html", title: "Deactivate Your Account", changeset: changeset)
   end
 
+  def delete(conn, _params) do
+    conn
+    |> put_flash(:info, "Nothing happened")
+    |> redirect(to: "/")
+  end
+
 end
